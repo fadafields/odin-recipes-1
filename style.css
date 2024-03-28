@@ -1,0 +1,36 @@
+body {
+    font-family: Garamond, Georgia, serif;
+    color: black;
+    background-color: white;
+}
+
+h1 {
+    color: darkgreen;
+    font-size: xx-large;
+    font-weight: bold;
+}
+
+h2 {
+    color: purple;
+    font-size: larger;
+    font-weight: bold;
+}
+
+p {
+    color: goldenrod;
+    text-wrap: 900px;
+}
+
+li {
+    color: darkgreen;
+}
+
+img {
+    text-align: center;
+}
+
+.home-li {
+    color: goldenrod;
+}
+
+
